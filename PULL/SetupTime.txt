@@ -1,0 +1,8 @@
+2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	2.2[min]	[min]	[min]	[min]	[min]
+1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	1.5[min]	[min]	[min]	[min]	[min]
+1[min]	1.8[min]	2.5[min]	2.8[min]	1[min]	1.8[min]	2.5[min]	2.8[min]	1[min]	1.8[min]	2.5[min]	2.8[min]	1[min]	1.8[min]	2.5[min]	2.8[min]	[min]	[min]	[min]	[min]
+0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	[min]	[min]	[min]	[min]
+0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	[min]	[min]	[min]	[min]
+0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	[min]	[min]	[min]	[min]
+1.2[min]	1.5[min]	2[min]	2.1[min]	1.2[min]	1.5[min]	2[min]	2.1[min]	1.2[min]	1.5[min]	2[min]	2.1[min]	1.2[min]	1.5[min]	2[min]	2.1[min]	[min]	[min]	[min]	[min]
+0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	0[min]	[min]	[min]	[min]	[min]

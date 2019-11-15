@@ -1,0 +1,10 @@
+
+***************************************************
+SMED
+***************************************************
+
+In the SMED model we minimize the setup time of each WS by multiplying the SetupTime * SetupTimeReduction, SetupTimeReduction is a text file in input folder we put in it the percentage of reduction for each WS ex: 0.5 0.6 0.8 0.2 0.1 0.3
+
+so we create a FileToVector called [SetupTimeRedution]
+
+and we put in each server in the service time: '[WS1_Previous_Type].Type == this.obj.Type ? [ProcessingTime].Value(1) : (([SetupTime].Value(1)*[SetupTimeReduction].Value(1))+[ProcessingTime].Value(1))'

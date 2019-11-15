@@ -1,0 +1,1 @@
+0.75[min] 1[min] #COL (Chnge Over Length) between x and y for all the products and all the Shops 

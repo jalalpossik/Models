@@ -1,0 +1,1 @@
+JaamSim2018-05.jar ./POKAYOKE/POKAYOKE.cfg

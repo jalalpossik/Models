@@ -1,0 +1,2 @@
+1[h] 300[h] 300[h] 300[h] 300[h] 300[h] 300[h] 300[h]  			#Interval between downtimes 
+10[min] 60[min] 60[min] 60[min] 60[min] 60[min] 60[min] 60[min]		 	#Duration of each downtime

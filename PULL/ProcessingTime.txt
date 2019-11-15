@@ -1,0 +1,1 @@
+2.8[min]	2.1[min]	3[min]	2.9[min]	1.8[min]	2.5[min]	3.6[min]	3.3[min]	

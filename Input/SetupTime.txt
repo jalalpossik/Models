@@ -1,0 +1,8 @@
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min]			 	#Cutting Shop (WS1) Setup Time for PF1, PF2, PF3 then PF4
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 				#Treatment Shop (WS2) Setup Time for PF1, PF2, PF3 then PF4
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 			 	#Assembly Shop (WS3) Setup Time for PF1, PF2, PF3 then PF4
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 				#Assembly Shop (WS4) Setup Time for PF1, PF2, PF3 then PF4
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 				#Assembly Shop (WS5) Setup Time for PF1, PF2, PF3 then PF4
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 				#Assembly Shop (WS6) Setup Time for PF1, PF2, PF3 then PF4
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min]  				#Machining Shop (WS7) Setup Time for PF1, PF2, PF3 then PF4
+0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 0[min] 100[min] 				#Machining Shop (WS8) Setup Time for PF1, PF2, PF3 then PF4
